@@ -26,7 +26,7 @@ Fig.1 Functional Module of IMIS
 
 ### Detailed GitHub Organization Structure: [Learn more about the Organization Structure.](https://github.com/base-imis/.github/blob/main/ORGANIZATION_STRUCTURE.MD)
  
-### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/base-imis/web_app)
+### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/dncc-imis/web_app)
  
 ### Mobile Application Source Code & Documentation: [Explore the Mobile App Repository.](https://github.com/base-imis/mobile_app)
 
