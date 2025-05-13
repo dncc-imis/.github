@@ -28,7 +28,7 @@ Fig.1 Functional Module of IMIS
  
 ### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/dncc-imis/web_app)
  
-### Mobile Application Source Code & Documentation: [Explore the Mobile App Repository.](https://github.com/base-imis/mobile_app)
+### Mobile Application Source Code & Documentation: [Explore the Mobile App Repository.](https://github.com/dncc-imis/mobile_app)
 
 ### Deployment Documentation & Resources: [View Deployment Documentation.](https://github.com/base-imis/deployment_documentation)
 
