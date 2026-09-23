@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/user-attachments/assets/69f97175-6ee2-4e79-aad9-dfaf5afa4ad1"> </img>
+<img src="./IMIS_Banner_DNCC.png" alt="IMIS banner" width="100%">
 </div>
 
 <p align=justify> The Integrated Municipal Information System (IMIS) is an open-source GIS-based Digital Public Infrastructure (DPI) which functions as both a municipal information system and a software solution, integrating data, processes, and services to enhance municipal governance—particularly in sanitation management with Citywide Inclusive Sanitation (CWIS) approach to achieve SDG 6.2. It offers municipalities data-driven decision-making tools to strengthen governance across various sectors. By leveraging open-source technologies and Geographic Information Systems (GIS), it facilitates: </p>
