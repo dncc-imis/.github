@@ -22,15 +22,11 @@ Fig.1 Functional Module of IMIS
 
 # Quicklinks for IMIS
 
-Public visitors can open the public repositories below. The DNCC web and mobile application repositories and the `base-imis/other_resources` repository require access to view.
+## Public resources
 
 ### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/base-imis/.github/blob/master/README.md)
 
 ### Detailed GitHub Organization Structure: [Learn more about the Organization Structure.](https://github.com/base-imis/.github/blob/master/ORGANIZATION_STRUCTURE.MD)
- 
-### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/dncc-imis/web_app)
- 
-### Mobile Application Source Code & Documentation: [Explore the Mobile App Repository.](https://github.com/dncc-imis/mobile_app)
 
 ### Deployment Documentation & Resources: [View Deployment Documentation.](https://github.com/base-imis/deployment_documentation)
 
@@ -39,15 +35,11 @@ Public visitors can open the public repositories below. The DNCC web and mobile 
 ### Additional Resources: [View Additional Resources.](https://github.com/base-imis/additional_resources)
 
 #### IMIS Brochure: [A concise visual overview of IMIS.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Brochure.pdf)
-  
+
 #### IMIS Poster: [A visual summary of IMIS.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Poster.pdf)
 
-#### Overview of the Readiness Assessment Framework: [Learn more about the Readiness Assessment Framework.](https://github.com/base-imis/other_resources/blob/master/Readiness%20Assessment.pdf)
-
-#### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/base-imis/other_resources/blob/master/Building%20Questionnaire.pdf)
-  
 #### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Standard.png)
-  
+
 #### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Inverted.png)
 
 #### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/master/LICENSE.md)
@@ -55,5 +47,17 @@ Public visitors can open the public repositories below. The DNCC web and mobile 
 #### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/base-imis/.github/blob/master/CONTRIBUTING.md)
 
 #### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/base-imis/.github/blob/master/CODE_OF_CONDUCT.md)
+
+## Restricted resources (authorized users only)
+
+These links require repository access and will not open for public visitors.
+
+### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/dncc-imis/web_app)
+
+### Mobile Application Source Code & Documentation: [Explore the Mobile App Repository.](https://github.com/dncc-imis/mobile_app)
+
+### Overview of the Readiness Assessment Framework: [Learn more about the Readiness Assessment Framework.](https://github.com/base-imis/other_resources/blob/master/Readiness%20Assessment.pdf)
+
+### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/base-imis/other_resources/blob/master/Building%20Questionnaire.pdf)
 
 #### Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](mailto:insol@innovativesolution.com.np).
