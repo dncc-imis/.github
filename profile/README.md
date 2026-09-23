@@ -22,9 +22,11 @@ Fig.1 Functional Module of IMIS
 
 # Quicklinks for IMIS
 
-### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/base-imis/.github/blob/main/README.md)
+Public visitors can open the public repositories below. The DNCC web and mobile application repositories and the `base-imis/other_resources` repository require access to view.
 
-### Detailed GitHub Organization Structure: [Learn more about the Organization Structure.](https://github.com/base-imis/.github/blob/main/ORGANIZATION_STRUCTURE.MD)
+### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/base-imis/.github/blob/master/README.md)
+
+### Detailed GitHub Organization Structure: [Learn more about the Organization Structure.](https://github.com/base-imis/.github/blob/master/ORGANIZATION_STRUCTURE.MD)
  
 ### Web Application Source Code & Documentation: [Access the Web Application Repository.](https://github.com/dncc-imis/web_app)
  
@@ -36,22 +38,22 @@ Fig.1 Functional Module of IMIS
 
 ### Additional Resources: [View Additional Resources.](https://github.com/base-imis/additional_resources)
 
-#### IMIS Brochure: [A concise visual overview of IMIS.](https://github.com/base-imis/additional_resources/blob/main/IMIS%20Brochure.pdf)
+#### IMIS Brochure: [A concise visual overview of IMIS.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Brochure.pdf)
   
-#### IMIS Poster: [A visual summary of IMIS.](https://github.com/base-imis/additional_resources/blob/main/IMIS%20Poster.pdf)
+#### IMIS Poster: [A visual summary of IMIS.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Poster.pdf)
 
-#### Overview of the Readiness Assessment Framework: [Learn more about the Readiness Assessment Framework.](https://github.com/base-imis/other_resources/blob/main/Readiness%20Assessment.pdf)
+#### Overview of the Readiness Assessment Framework: [Learn more about the Readiness Assessment Framework.](https://github.com/base-imis/other_resources/blob/master/Readiness%20Assessment.pdf)
 
-#### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/base-imis/other_resources/blob/main/Building%20Questionnaire.pdf)
+#### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/base-imis/other_resources/blob/master/Building%20Questionnaire.pdf)
   
-#### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/base-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Standard.png)
+#### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Standard.png)
   
-#### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/base-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Inverted.png)
+#### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/base-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Inverted.png)
 
-#### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/main/LICENSE.md)
+#### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/master/LICENSE.md)
 
-#### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/base-imis/.github/blob/main/CONTRIBUTING.md)
+#### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/base-imis/.github/blob/master/CONTRIBUTING.md)
 
-#### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/base-imis/.github/blob/main/CODE_OF_CONDUCT.md)
+#### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/base-imis/.github/blob/master/CODE_OF_CONDUCT.md)
 
-#### Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
+#### Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](mailto:insol@innovativesolution.com.np).
