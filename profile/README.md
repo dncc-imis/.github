@@ -22,7 +22,6 @@ Fig.1 Functional Module of IMIS
 
 # Quicklinks for IMIS
 
-## Public resources
 
 ### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/base-imis/.github/blob/master/README.md)
 
