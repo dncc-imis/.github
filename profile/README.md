@@ -2,11 +2,35 @@
 <img src="./IMIS_Banner_DNCC.png" alt="IMIS banner" width="100%">
 </div>
 
-<p align=justify> The Integrated Municipal Information System (IMIS) is an open-source GIS-based Digital Public Infrastructure (DPI) which functions as both a municipal information system and a software solution, integrating data, processes, and services to enhance municipal governance—particularly in sanitation management with Citywide Inclusive Sanitation (CWIS) approach to achieve SDG 6.2. It offers municipalities data-driven decision-making tools to strengthen governance across various sectors. By leveraging open-source technologies and Geographic Information Systems (GIS), it facilitates: </p>
-• Planning, management, and monitoring of sanitation systems using the CWIS approach. </br>
-•	End-to-end FSM (Faecal Sludge Management) service chain oversight, including real-time data tracking.  </br>
-•	Generation and visualization of CWIS indicators for performance assessment. </br>
-•	Intuitive dashboards for tracking CWIS indicators, Key Performance Indicators (KPIs), and other essential municipal governance metrics.  </br> </br>
+<p align=justify> The Integrated Municipal Information System (IMIS) is an open-source, GIS-based Digital Public Infrastructure (DPI) that functions as both a municipal information system and a software solution. It integrates data, processes, and services to strengthen municipal governance, particularly sanitation management under the Citywide Inclusive Sanitation (CWIS) approach and the achievement of SDG 6.2.
+
+For Dhaka North City Corporation (DNCC), IMIS has been established as a GIS-based municipal information platform that brings together building-level spatial data, sanitation information, and service-delivery records. The implementation has created a common information base for Zone 3, covering more than 25,000 mapped buildings across wards 18, 19, 20, 21, 23, 24, 35, and 36. It connects building footprints, ward boundaries, road networks, sanitation conditions, and operational service information to support spatial planning, monitoring, and municipal decision-making.
+
+A Scheduled Desludging Module was specifically developed for DNCC and integrated into IMIS to support the management of the faecal sludge management (FSM) service chain. The module connects the building and sanitation database with service operations, including identification and prioritisation of eligible buildings, service scheduling, customer confirmation, field assessment, emptying, transportation, disposal recording at treatment facilities, customer feedback, and performance monitoring. It enables DNCC to manage and monitor scheduled and demand-based desludging services through a common digital platform.
+
+By leveraging open-source technologies and Geographic Information Systems (GIS), IMIS enables municipalities to:
+
+- Plan, manage, and monitor sanitation systems using the CWIS approach.
+- Support end-to-end FSM service-chain oversight, including service, transport, and disposal records.
+- Generate and visualise CWIS indicators and Key Performance Indicators (KPIs) for performance assessment.
+- Use dashboards, spatial tools, and operational data to support planning, monitoring, coordination, and evidence-based decision-making.
+
+As a sub-national public data system, IMIS can support structured reporting of CWIS indicators and other relevant municipal data to authorised central systems. Its modular and scalable architecture also enables local authorities to apply the same data-driven approach beyond sanitation, improving efficiency, accountability, and service delivery across municipal functions.
+
+IMIS comprises ten functional modules:
+
+1. Building Information Management System (BIMS)
+2. Utility Information Management System (UIMS)
+3. Faecal Sludge Information Management System (FSIMS)
+4. Community/Public Toilet Information Management System (PTCTIMS)
+5. Sewer Connection Information Support System (SCISS)
+6. Public Health Information Support System (PHISS)
+7. Urban Management Decision Support System (UMDSS)
+8. Property Tax Collection Information Support System (PTCISS)
+9. Solid Waste Information Support System (SWISS)
+10. Water Supply Information Support System (WSISS)
+
+Built using technologies including PHP and PostgreSQL, and licensed under CC BY-NC-SA 4.0, IMIS provides municipalities with a scalable, sustainable, and inclusive platform for sanitation and wider urban governance. This repository contains the source code, installation guidance, and documentation required to deploy and maintain IMIS.  </br> </br>
 
 <p align=justify> IMIS as a sub-national public data system contributes to national-level monitoring by feeding data into centralized systems, supporting CWIS indicators and other critical metrics for achieving sanitation targets. Beyond sanitation management, with its modular and scalable design, Base IMIS empowers local authorities by providing a unified, data-driven framework that enhances efficiency, accountability, and service delivery in municipal governance.  </p>
 
